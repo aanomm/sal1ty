@@ -1,9 +1,9 @@
 media: public/img
 content:
-  - name: posts
-    label: Posts
+  - name: quotes
+    label: Quotes
     type: collection
-    path: content/blog
+    path: content/quotes
     view:
       fields: [title, draft, date]
     fields:
