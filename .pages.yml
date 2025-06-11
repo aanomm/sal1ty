@@ -45,11 +45,11 @@ content:
       - name: onMenu
         label: On Menu?
         type: boolean # Toggle for Yes/No
-        default: false
+        default: true
       - name: menuOrder
         label: Menu Order
         type: number
-        default: 0
+        default: 100
       - name: draft
         label: Draft
         type: boolean
