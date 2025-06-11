@@ -3,4 +3,4 @@ title: This is a fifth post (draft)
 date: 2023-01-23
 draft: false
 ---
-This is a draft post
+_This is a_ **_draft_** _post_ called [Drafty](sayso.co)
