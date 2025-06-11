@@ -32,7 +32,7 @@ content:
     type: collection
     path: content/pages
     view:
-      fields: [title, draft] # Remove language from view
+      fields: [title, slug, draft] # Remove language from view
     fields:
       - name: title
         label: Title
